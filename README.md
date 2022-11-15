@@ -4,10 +4,4 @@
 
 ### polybar custom script for glances
 
-[module/glances]
-type = custom/script
-click-left = "alacritty -e glances"
-exec = echo " "
-format = "  Glances"
-format-foreground = ${colors.green}
-tail = true
+![image](https://user-images.githubusercontent.com/69158247/201957266-c7206d30-1c39-45bf-b6eb-d752d7f694ee.png)
